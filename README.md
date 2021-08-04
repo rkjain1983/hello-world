@@ -1,2 +1,5 @@
 # hello-world
-It is beginner level  stage
+
+Hi everyone...
+i am working on python libraries and MySQL
+
